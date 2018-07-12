@@ -1,0 +1,6 @@
+google configuration
+ 
+Client ID 
+627563380427-m524tsffhd9ujl99olruqc08us07lcko.apps.googleusercontent.com
+Client Secret 
+Gqg0uSNCmWyuV107iaSwOtJ4
